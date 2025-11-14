@@ -26,16 +26,20 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=6
-FILE_NAME_0=636;Ruby;0;EUTF-8;1;1;0;%2Fhome%2Fpedro%2Fcode%2Fflix%2Fconfig%2Froutes.rb;0;4
+current_page=7
+FILE_NAME_0=480;Ruby;0;EUTF-8;1;1;0;%2Fhome%2Fpedro%2Fcode%2Fflix%2Fconfig%2Froutes.rb;0;4
 FILE_NAME_1=76;Ruby;0;EUTF-8;1;1;0;%2Fhome%2Fpedro%2Fcode%2Fflix%2Fapp%2Fmodels%2Fmovie.rb;0;4
-FILE_NAME_2=115;None;0;EUTF-8;1;1;0;%2Fhome%2Fpedro%2Fcode%2Fflix%2Fapp%2Fviews%2Fmovies%2Findex.html.erb;0;4
+FILE_NAME_2=358;None;0;EUTF-8;1;1;0;%2Fhome%2Fpedro%2Fcode%2Fflix%2Fapp%2Fviews%2Fmovies%2Findex.html.erb;0;4
 FILE_NAME_3=145;Ruby;0;EUTF-8;1;1;0;%2Fhome%2Fpedro%2Fcode%2Fflix%2Fapp%2Fhelpers%2Fmovies_helper.rb;0;4
-FILE_NAME_4=375;HTML;0;EUTF-8;1;1;0;%2Fhome%2Fpedro%2Fcode%2Fflix%2Fapp%2Fviews%2Flayouts%2Fapplication.html.erb;0;4
+FILE_NAME_4=235;HTML;0;EUTF-8;1;1;0;%2Fhome%2Fpedro%2Fcode%2Fflix%2Fapp%2Fviews%2Flayouts%2Fapplication.html.erb;0;4
 FILE_NAME_5=1356;Ruby;0;EUTF-8;1;1;0;%2Fhome%2Fpedro%2Fcode%2Fflix%2FGemfile;0;4
-FILE_NAME_6=431;Ruby;0;EUTF-8;1;1;0;%2Fhome%2Fpedro%2Fcode%2Fflix%2Fapp%2Fcontrollers%2Fmovies_controller.rb;0;4
-FILE_NAME_7=398;None;0;EUTF-8;1;1;0;%2Fhome%2Fpedro%2Fcode%2Fflix%2Fapp%2Fviews%2Fmovies%2Fshow.html.erb;0;4
-FILE_NAME_8=64;None;0;EUTF-8;1;1;0;%2Fhome%2Fpedro%2Fcode%2Fflix%2Fapp%2Fviews%2Fmovies%2Fedit.html.erb;0;4
+FILE_NAME_6=580;Ruby;0;EUTF-8;1;1;0;%2Fhome%2Fpedro%2Fcode%2Fflix%2Fapp%2Fcontrollers%2Fmovies_controller.rb;0;4
+FILE_NAME_7=523;None;0;EUTF-8;1;1;0;%2Fhome%2Fpedro%2Fcode%2Fflix%2Fapp%2Fviews%2Fmovies%2Fshow.html.erb;0;4
+FILE_NAME_8=79;None;0;EUTF-8;1;1;0;%2Fhome%2Fpedro%2Fcode%2Fflix%2Fapp%2Fviews%2Fmovies%2Fnew.erb;0;4
+FILE_NAME_9=377;None;0;EUTF-8;1;1;0;%2Fhome%2Fpedro%2Fcode%2Fflix%2Fapp%2Fviews%2Fmovies%2F_form.html.erb;0;4
+FILE_NAME_10=74;None;0;EUTF-8;1;1;0;%2Fhome%2Fpedro%2Fcode%2Fflix%2Fapp%2Fviews%2Fmovies%2Fedit.html.erb;0;4
+FILE_NAME_11=125;None;0;EUTF-8;1;1;0;%2Fhome%2Fpedro%2Fcode%2Fflix%2Fapp%2Fviews%2Flayouts%2F_header.html.erb;0;4
+FILE_NAME_12=113;None;0;EUTF-8;1;1;0;%2Fhome%2Fpedro%2Fcode%2Fflix%2Fapp%2Fviews%2Flayouts%2F_footer.html.erb;0;4
 
 [VTE]
 last_dir=/home/pedro
