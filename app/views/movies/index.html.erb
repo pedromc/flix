@@ -1,5 +1,11 @@
-<ul>
-  <% @movies.each do |m| %>
-    <li><%= m %></li>
-  <% end %>
-</ul>
+<% @movies.each do |m| %>
+	<section class="movie">
+		<div class="summary">
+			<h2><%= link_to m.title, movie_path(m) %></h2>
+			<h3><%= total_gross(m) %></h3>
+			<p>
+				<%= truncate(m.description, length: 150, separator: ' ') %>
+			</p>
+		</div>
+	</section>
+<% end %>
